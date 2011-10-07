@@ -7,12 +7,6 @@
 [submodule ".vim/bundle/spf13-vim-colors"]
 	path = .vim/bundle/spf13-vim-colors
 	url = git://github.com/spf13/vim-colors.git
-[submodule ".vim/bundle/snipmate-snippets"]
-	path = .vim/bundle/snipmate-snippets
-	url = git://github.com/spf13/snipmate-snippets.git
-[submodule ".vim/bundle/snipmate-snippets/snippets"]
-	path = .vim/bundle/snipmate-snippets/snippets
-	url = git://github.com/spf13/snipmate-snippets.git
 [submodule ".vim/bundle/supertab"]
 	path = .vim/bundle/supertab
 	url = git://github.com/ervandew/supertab.git
@@ -67,3 +61,12 @@
 [submodule ".vim/bundle/vim-addon-mw-utils"]
 	path = .vim/bundle/vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule ".vim/bundle/snipmate-snippets"]
+	path = .vim/bundle/snipmate-snippets
+	url = git://github.com/spf13/snipmate-snippets.git
+[submodule ".vim/bundle/gundo"]
+	path = .vim/bundle/gundo
+	url = git://github.com/sjl/gundo.vim.git
+[submodule ".vim/bundle/vim-colors"]
+	path = .vim/bundle/vim-colors
+	url = git@github.com:fredrike/vim-colors.git
