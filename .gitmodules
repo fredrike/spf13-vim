@@ -63,10 +63,16 @@
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule ".vim/bundle/snipmate-snippets"]
 	path = .vim/bundle/snipmate-snippets
-	url = git://github.com/spf13/snipmate-snippets.git
+	url = git@github.com:fredrike/snipmate-snippets.git
 [submodule ".vim/bundle/gundo"]
 	path = .vim/bundle/gundo
 	url = git://github.com/sjl/gundo.vim.git
 [submodule ".vim/bundle/vim-colors"]
 	path = .vim/bundle/vim-colors
 	url = git@github.com:fredrike/vim-colors.git
+[submodule ".vim/bundle/latex-omnifunc"]
+	path = .vim/bundle/latex-omnifunc
+	url = https://github.com/igrep/vim-latex-omnifunc.git
+[submodule ".vim/bundle/vim-latex"]
+	path = .vim/bundle/vim-latex
+	url = git://github.com/jcf/vim-latex.git

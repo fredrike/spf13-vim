@@ -418,6 +418,11 @@
 			nmap <leader>jt <Esc>:%!python -m json.tool<CR><Esc>:set filetype=json<CR>
 		 " }
 	" }
+
+    " LaTeX plugin {
+        " The following changes the default filetype back to 'tex':
+        let g:tex_flavor='latex'"
+    " }
 " }
 
 " GUI Settings {
